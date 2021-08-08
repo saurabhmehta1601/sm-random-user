@@ -1,0 +1,22 @@
+{
+  "name": "sm-random-user",
+  "version": "1.0.0",
+  "description": "A NPM package which generates random user object .",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhmehta1601/sm-random-user.git"
+  },
+  "keywords": [
+    "random-user"
+  ],
+  "author": "Saurabh Mehta <saurabhmehta1601@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabhmehta1601/sm-random-user/issues"
+  },
+  "homepage": "https://github.com/saurabhmehta1601/sm-random-user#readme"
+}
